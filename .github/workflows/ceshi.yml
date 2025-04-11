@@ -94,8 +94,17 @@ jobs:
           success=false
 
           while [ $retries -le $MAX_RETRIES ]; do
-            # 发送请求
-            new_response=$(curl -Ls "$url" -w "%{http_code}") # 包含HTTP状态码
+            # 发送请求 包含HTTP状态码
+            new_response=$(curl -Ls --max-time 10 "$url" -w "%{http_code}") || {
+              echo "curl 请求失败（尝试次数: $((retries+1))/$MAX_RETRIES）"
+              retries=$((retries+1))
+              if [ $retries -lt $MAX_RETRIES ]; then
+                sleep_time=$((RETRY_DELAY * retries)) # 指数退避延迟
+                echo "等待 $sleep_time 秒后重试..."
+                sleep $sleep_time
+              fi
+              continue
+            }
             
             # 分离HTTP状态码和响应体
             http_code=${new_response: -3}
