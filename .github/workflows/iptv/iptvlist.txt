@@ -1,7 +1,6 @@
 http://home.jundie.top:81/Cat/tv/live.txt
 http://www.meowtv.top/mtvzb.txt
 http://150.158.112.123/live.txt
-https://6296.kstore.vip/25.txt
 https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Hunan.txt
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
