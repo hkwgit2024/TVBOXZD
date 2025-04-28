@@ -38,3 +38,7 @@ http://so.owo.vin/河南
 https://yyrj.fun/tv
 http://www.lyyytv.cn/yt/zhibo/1.txt
 https://6296.kstore.vip/25.txt
+https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Hunan.txt
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Zubo.m3u
