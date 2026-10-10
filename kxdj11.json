@@ -2152,7 +2152,7 @@
  "sites": [
   {
    "key": "Cat_聚合短剧",
-   "name": "🎦聚合🔹短剧",
+   "name": "✨聚合短剧✨康兄甄选✨",
    "type": 3,
    "api": "./deps/xingwei/kstore/xw/js/duanju_juhe.js",
    "searchable": 1,
@@ -2163,14 +2163,14 @@
   },
   {
    "key": "西饭短剧.js",
-   "name": "💥西饭短剧💥",
+   "name": "✨西饭短剧✨康兄甄选✨",
    "type": 3,
    "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/西饭短剧.js",
    "group": "短剧"
   },
   {
    "key": "旺旺短剧",
-   "name": "旺旺短剧",
+   "name": "✨旺旺短剧✨康兄甄选✨",
    "type": 1,
    "api": "https://zhangqun1818.serv00.net/ww.php",
    "style": {
@@ -2183,7 +2183,7 @@
   },
   {
    "key": "C影院",
-   "name": "[678ms|123] 🧿大众┃蓝光",
+   "name": "✨大众蓝光✨康兄甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "searchable": 1,
@@ -2200,7 +2200,7 @@
    "group": "短剧"
   },
   {
-   "name": "🎬喵喵短剧",
+   "name": "✨喵喵短剧✨康兄甄选✨",
    "key": "Qmdj",
    "type": 3,
    "api": "csp_QmdjAmns",
@@ -2212,7 +2212,7 @@
    "group": "短剧"
   },
   {
-   "name": "🎬围观短剧",
+   "name": "✨围观短剧✨康兄甄选✨",
    "key": "Wgdj",
    "type": 3,
    "api": "csp_WgdjAmns",
@@ -2224,7 +2224,7 @@
    "group": "短剧"
   },
   {
-   "name": "🎬拜拜短剧",
+   "name": "✨拜拜短剧✨康兄甄选✨",
    "key": "Bddj",
    "type": 3,
    "api": "csp_BddjAmns",
@@ -2237,7 +2237,7 @@
   },
   {
    "key": "wwzy.tv",
-   "name": "🎬旺旺短剧",
+   "name": "✨旺旺短剧✨康兄甄选✨",
    "type": 1,
    "api": "https://wwzy.tv/api.php/provide/vod",
    "searchable": 1,
@@ -2246,7 +2246,7 @@
    "group": "短剧"
   },
   {
-   "name": "🎬星星短剧",
+   "name": "✨星星短剧✨康兄甄选✨",
    "key": "Xydj",
    "type": 3,
    "api": "csp_XydjAmns",
@@ -2258,7 +2258,7 @@
    "group": "短剧"
   },
   {
-   "name": "🎬豪堪短剧",
+   "name": "✨豪楷短剧✨康兄甄选✨",
    "key": "HHkk",
    "type": 3,
    "api": "csp_HHkkAmns",
@@ -2271,7 +2271,7 @@
   },
   {
    "key": "短剧TV",
-   "name": "短剧TV",
+   "name": "✨短剧TV✨康兄甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "./deps/auto/1-698s/heads/main/yingshi/json1/短剧TV.json",
@@ -2280,7 +2280,7 @@
   },
   {
    "key": "短剧在线00",
-   "name": "短剧┃在线",
+   "name": "✨短剧在线✨康兄甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "./deps/auto/1-698s/heads/main/yingshi/json1/短剧网.json",
@@ -2289,7 +2289,7 @@
   },
   {
    "key": "集百短剧",
-   "name": "集百短剧",
+   "name": "✨集百短剧✨康兄甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "ext": "./deps/auto/1-698s/heads/main/yingshi/json1/集百短剧.json",
@@ -2298,7 +2298,7 @@
   },
   {
    "key": "首播影院",
-   "name": "💥首播影院💥",
+   "name": "✨首播影院✨康兄甄选✨",
    "type": 3,
    "api": "csp_XBPQ",
    "jar": "./deps/auto/1-698s/heads/main/yingshi/js/xbpq.jar",
@@ -2324,7 +2324,7 @@
   },
   {
    "key": "Cat_百度短剧",
-   "name": "🎦百度🔹短剧",
+   "name": "✨百度短剧✨康兄甄选✨",
    "type": 3,
    "api": "./deps/xingwei/kstore/xw/js/baidu_dj.js",
    "searchable": 1,
@@ -2335,7 +2335,7 @@
   },
   {
    "key": "果果",
-   "name": "☀茫茫🔹人海",
+   "name": "✨茫果短剧✨康兄甄选✨",
    "type": 3,
    "jar": "./deps/xingwei/kstore/xw/lib/jp.png",
    "api": "./deps/xingwei/kstore/xw/js/drpy2.min.js",
@@ -2344,7 +2344,7 @@
   },
   {
    "key": "海马短剧",
-   "name": "海马｜短剧",
+   "name": "✨海马短剧✨康兄甄选✨",
    "type": 3,
    "api": "./deps/shiguang/svip/heads/main/js/drpy2.min.js",
    "ext": "./deps/shiguang/svip/heads/main/js/河马短剧.js",
@@ -2353,7 +2353,7 @@
   },
   {
    "key": "红果短剧.py",
-   "name": "💥红果短剧💥",
+   "name": "✨红果短剧✨康兄甄选✨",
    "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js8/百度短剧.js",
    "filterable": 1,
    "quickSearch": 1,
@@ -2363,7 +2363,7 @@
   },
   {
    "key": " 短剧┃网",
-   "name": "码上👓豆-短剧",
+   "name": "✨码上短剧✨康兄甄选✨",
    "type": 3,
    "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
    "ext": "http://alist.xn--z7x900a.love:63/短剧网.js",
@@ -2376,7 +2376,7 @@
   },
   {
    "key": "果果视频",
-   "name": "🎇｜果果｜解析",
+   "name": "✨果果解析✨康兄甄选✨",
    "type": 3,
    "api": "https://chigua.eu.org/js/online/drpy2.min.js",
    "ext": "./deps/dongli/chigua/js/online/mg.js",
@@ -2384,7 +2384,7 @@
   },
   {
    "key": "聚合短剧.js",
-   "name": "💥聚合短剧💥",
+   "name": "✨聚合短剧✨康兄甄选✨",
    "type": 3,
    "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/聚合短剧.js",
    "searchable": 1,
@@ -2394,7 +2394,7 @@
   },
   {
    "key": "聚合短剧_async",
-   "name": "💝分享短剧",
+   "name": "✨分享短剧✨康兄甄选✨",
    "type": 3,
    "api": "https://ghfast.top/https:/raw.githubusercontent.com/cluntop/cluntop.github.io/main/js/聚合短剧.js",
    "style": {
